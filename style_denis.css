@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color: orange;
+   background-image: url(https://www.hellride.ru/upload/resize_cache/iblock/e6f/170_170_1/e6f7e0d2cba42fcc958a2f7e7ed2f2d8.png);
+}
+
+header {
+    color: white;
+    font-size: 52px;
+}
+header h1{
+    text-align: center;
+}
+header p{
+    background-color: white;
+    text-align: center;
+    border-left: 5px solid black ;
+    border-right: 5px solid black ;
+}
+nav{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px ;
+    text-align: center;
+    margin-bottom: 30px;
+    border-left: 5px solid black ;
+    border-right: 5px solid black ;
+
+}
+nav a{
+    padding-left: 30px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+main{
+    background-color: white;
+       border-left: 5px solid black ;
+    border-right: 5px solid black ;
+    padding-top: 40px;
+}
+main p{
+   text-align: center;
+   font-size: 21px;
+}
+details{
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: orangered;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+}
